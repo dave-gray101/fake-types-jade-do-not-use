@@ -1,0 +1,23 @@
+{
+    "authors": "Panu Horsmalahti <https://github.com/panuhorsmalahti>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "jade",
+    "typingsPackageName": "jade",
+    "projectName": "https://github.com/jadejs/jade",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "ProperModule",
+    "globals": [],
+    "declaredModules": [
+        "jade"
+    ],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "6a8d1138f2147a20a1b398077b07cbd32d3fe1870c964b1eb6204139bba5d1e9"
+}

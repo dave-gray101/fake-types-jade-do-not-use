@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/jade@0.0.29",
+        "scope": "@types",
+        "escapedName": "@types%2fjade",
+        "name": "@types/jade",
+        "rawSpec": "0.0.29",
+        "spec": "0.0.29",
+        "type": "version"
+      },
+      "/Users/dlee/Projects/CHC/js-common/sms"
+    ]
+  ],
+  "_from": "@types/jade@0.0.29",
+  "_id": "@types/jade@0.0.29",
+  "_inCache": true,
+  "_location": "/@types/jade",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jade-0.0.29.tgz_1474306884448_0.8236981914378703"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/jade@0.0.29",
+    "scope": "@types",
+    "escapedName": "@types%2fjade",
+    "name": "@types/jade",
+    "rawSpec": "0.0.29",
+    "spec": "0.0.29",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/jade/-/jade-0.0.29.tgz",
+  "_shasum": "2d11334ebf91a00e3ded2c46b9efd6d67053122a",
+  "_shrinkwrap": null,
+  "_spec": "@types/jade@0.0.29",
+  "_where": "/Users/dlee/Projects/CHC/js-common/sms",
+  "author": {
+    "name": "Panu Horsmalahti",
+    "email": "https://github.com/panuhorsmalahti"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for jade",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2d11334ebf91a00e3ded2c46b9efd6d67053122a",
+    "tarball": "https://registry.npmjs.org/@types/jade/-/jade-0.0.29.tgz"
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ryan.cavanaugh@microsoft.com"
+    }
+  ],
+  "name": "@types/jade",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typesPublisherContentHash": "6a8d1138f2147a20a1b398077b07cbd32d3fe1870c964b1eb6204139bba5d1e9",
+  "typings": "index.d.ts",
+  "version": "0.0.29"
+}
